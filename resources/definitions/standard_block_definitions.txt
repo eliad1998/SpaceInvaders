@@ -1,0 +1,12 @@
+# default values for blocks
+default height:6 width:7 hit_points:1
+
+# block definitions
+bdef symbol:b hit_points:1 fill:color(cyan)
+
+# alien definitions
+adef symbol:a
+
+# spacers definitions
+sdef symbol:- width:50
+sdef symbol:* width:15
